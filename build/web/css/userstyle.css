@@ -1,0 +1,112 @@
+#outer
+{
+    width: 1000px;
+    height: auto;
+    min-height: 1100px;
+    //border: 1px solid;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+#user_menu
+{
+    width: 1000px;
+    height: 50px;
+    background-color: cyan;
+    border-radius: 20px 20px 0px 0px;
+}
+#user_header
+{
+    width: 1000px;
+    height: 150px;
+    margin-top: 5px;
+}
+#user_logo
+{
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+    float: left;
+}
+#sitetitle
+{
+    width: 850px;
+    height: 115px;
+    background-color: navy;
+    color: white;
+    float: left;
+    text-align: center;
+    font-size: 75px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 35px;
+    font-family: Bradley Hand ITC;
+}
+#info
+{
+    width: 1000px;
+    height: 80px;
+    margin-top: 5px;
+    background-color: #0099ff;
+    font-weight: bold;
+    color: white;
+}
+#date
+{
+    width: 500px;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    float: left;
+    font-family: Bradley Hand ITC;
+}
+#name
+{
+    width: 500px;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    float: left;
+    font-family: Bradley Hand ITC;
+}
+#user_container
+{
+    margin-top: 5px;
+    width: 1000px;
+    min-height: 700px;
+    height: auto;
+    border: 1px solid bisque;
+    background-color: bisque;
+}
+#user_footer
+{
+    width: 1000px;
+    height: 100px;
+    margin-top: 5px;
+    
+}
+#copyright
+{
+    width: 500px;
+    height: 70px;
+    background-color: #00ccff;
+    float: left;
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 0px 0px 20px 20px;
+}
+#developedby
+{
+    width: 500px;
+    height: 70px;
+    background-color: #0099ff;
+    float: left;
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 0px 0px 20px 20px;
+}

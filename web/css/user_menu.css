@@ -1,0 +1,25 @@
+#user_menu ul
+{
+    list-style-type: none;
+}
+#user_menu ul li
+{
+    float: left;
+    /* float: left;  */
+    /* padding: 0px 40px 0px 40px; */
+    margin-left: 20px;
+    text-align: center;
+    // border: 1px solid;
+}
+#user_menu ul li a
+{
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 10px;
+    color: black;
+    display: block;
+}
+#user_menu ul li a:hover
+{
+    color: red;
+}
